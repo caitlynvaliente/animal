@@ -61,8 +61,9 @@ body {
 .top{
     background-image:url("https://cdn3.rottweilerhq.com/wp-content/uploads/2014/03/Rottweiler.jpg");
 }
-.bottom{
-  background-image:url("http://www.petmania.ie/images/default-source/dog-breeds/rottweiler.jpg?sfvrsn=2");
+
+.photo1{
+	backround-image:url("http://www.petmania.ie/images/default-source/dog-breeds/rottweiler.jpg?sfvrsn=2");
 }
 
 
