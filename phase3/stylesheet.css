@@ -63,6 +63,13 @@ body {
 	width:100%;
 	height:100%;
 }
+.new1{
+	content: url("images/new1.jpg");
+}
+.new2{
+	content: url("images/new2.jpg");
+}
+
 @media screen and (max-width: 800px) {
 	.main {
 		display: block;
