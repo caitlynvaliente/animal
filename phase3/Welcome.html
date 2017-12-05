@@ -22,18 +22,19 @@
 	
 		<div class=" left  ">
 			<div class=" box dog1 pink " >
-			<img class="down" src= "dog1.jpg"/>
+			<img class="down" onclick=" other(this)" src= "/dog1.jpg"/>
 			</div>
 			<div class=" box dog2 blue">
-			<img class="down" src= "dog3.jpg"/>
+			<img class="down" onclick=" other2(this)"src= "/dog3.jpg"/>
 			</div>
 		
 		</div>
 		<!-- column -->
 		<div class= "middle"> 
-				<div class=" box slideshow blue">
+				<div class="box slideshow blue">
 				
-				</div>
+				</div> 
+				
 				<div class=" box video pink">
 				<iframe width="460" height="280" src="https://www.youtube.com/embed/mAUXyTlsMhc?start=46" frameborder="0" allowfullscreen></iframe>
 				</div>
@@ -42,14 +43,16 @@
 		<!-- column -->
 		<div class= "right">
 			<div class=" box dog3 pink">
-			<img class="down" src= "dog2.jpg"/>
-			
+				<img class="down "  onclick="showText(this)" src="/dog2.jpg"/>
+				<p id="text" class="disappear front">Rottweilers are actually very friendly!</p>	
 			</div>
 			<div class="box dog4 blue">
 			<img class="down" src= "dog4.jpg"/>
 			</div>
 		</div>
 	</div>
+	<script src="dog.js"></script>
 </body>
+
 
 </html>
