@@ -43,7 +43,7 @@ body {
   padding: 20px;
 }	
 .box{
-	background-color:red;
+	
 	height:45vh;
 }
 .left, .right, .middle{
@@ -57,17 +57,23 @@ body {
 }
 .pink{
 	background-color:pink;
-	
 }
 .down{
 	width:100%;
 	height:100%;
+	z-index: 9;
 }
 .new1{
-	content: url("images/new1.jpg");
+	content: url("new1.jpg");
 }
 .new2{
-	content: url("images/new2.jpg");
+	content: url("new2.jpg");
+}
+.gif{
+	content: url("gif.gif");
+}
+.whitepage{
+	content: url("whitepage1.jpg");
 }
 
 @media screen and (max-width: 800px) {
@@ -79,4 +85,6 @@ body {
 	width: 100vw;
 	display:block;
 }
+
+
 }
