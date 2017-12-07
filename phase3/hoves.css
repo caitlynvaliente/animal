@@ -63,7 +63,16 @@ body {
 	width:100%;
 	height:100%;
 }
-@media screen and (max-width: 800px) {
+.new3{
+	content: url("new3.jpg");
+}
+.new4{
+	content: url("new4.jpg");
+}
+.gif2{
+	content: url("gif2.gif");
+}
+@media screen and (max-width: 700px) {
 	.main {
 		display: block;
 	}
