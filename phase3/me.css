@@ -3,7 +3,7 @@
   padding: 0px;
 }
 body {
-  background-image: url("colors.jpg");
+  background-image: url("images/colors.jpg");
 }
 
 .main{
@@ -63,7 +63,16 @@ body {
 	width:100%;
 	height:100%;
 }
-@media screen and (max-width: 800px) {
+.new5{
+	content: url("images/new5.jpg");
+}
+.new6{
+	content: url("images/new6.jpg");
+}
+.new7{
+	content: url("images/new7.jpg");
+}
+@media screen and (max-width: 700px) {
 	.main {
 		display: block;
 	}
