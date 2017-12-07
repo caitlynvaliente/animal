@@ -7,6 +7,9 @@ function other4(elem){
 function other10(elem){
 	elem.classList.toggle("gif2");
 }
+function other16(elem){
+	elem.classList.toggle("whitepage2");
+}
 var myIndex = 0;
 carousel();
 
