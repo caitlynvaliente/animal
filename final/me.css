@@ -64,13 +64,13 @@ body {
 	height:100%;
 }
 .new5{
-	content: url("images/new5.jpg");
+	content: url("new5.jpg");
 }
 .new6{
-	content: url("images/new6.jpg");
+	content: url("new6.jpg");
 }
 .new7{
-	content: url("images/new7.jpg");
+	content: url("new7.jpg");
 }
 @media screen and (max-width: 700px) {
 	.main {
