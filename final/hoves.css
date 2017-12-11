@@ -64,16 +64,16 @@ body {
 	height:100%;
 }
 .new3{
-	content: url("images/new3.jpg");
+	content: url("new3.jpg");
 }
 .new4{
-	content: url("images/new4.jpg");
+	content: url("new4.jpg");
 }
 .gif2{
-	content: url("images/gif2.gif");
+	content: url("gif2.gif");
 }
 .whitepage2{
-	content: url("images/whitepage2.jpg");
+	content: url("whitepage2.jpg");
 }
 @media screen and (max-width: 700px) {
 	.main {
