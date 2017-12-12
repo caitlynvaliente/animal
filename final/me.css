@@ -43,7 +43,7 @@ body {
   padding: 20px;
 }	
 .box{
-	background-color:red;
+	background-color:;
 	height:45vh;
 }
 .left, .right, .middle{
@@ -52,11 +52,11 @@ body {
 	display:block;
 }
 .blue{
-	background-color:blue;
+	background-color:;
 	
 }
 .pink{
-	background-color:pink;
+	background-color:;
 	
 }
 .down{
