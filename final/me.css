@@ -76,17 +76,16 @@ body {
 		display: block;
 	}
 	.left, .right, .middle{
-	height:699px;
+	height:980px;
 	width: 100vw;
 	display:block;
 }
-	.blue{
-	background-color:;
+.blue{
+	background-color:blue;
 	height:499px;																							
 	
 }
 .pink{
-	background-color:;
+	background-color:pink;
 	
-}
 }
