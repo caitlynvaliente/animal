@@ -45,6 +45,14 @@ body {
 .box{
 	height:45vh;
 }
+.blue{
+	background-color:;
+	
+}
+.pink{
+	background-color:;
+	
+}
 .left, .right, .middle{
 	height:90vh;
 	width: calc(100vw / 3);
